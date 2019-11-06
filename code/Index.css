@@ -5,6 +5,7 @@ div.Title{
     position: fixed;
     box-sizing: border-box;
     padding: 25px;
+    margin-bottom: 30px;
 }
 
 h1.Header {
