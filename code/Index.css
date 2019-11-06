@@ -121,3 +121,8 @@ li > a::after{
 li > a:only-child::after{
     content: "";
 }
+
+h2.Welcome{
+    text-align: center;
+    color: white;
+}
