@@ -2,9 +2,10 @@
 @import url(https://fonts.googleapis.com/css?family=Bree+Serif);
 
 div.Title{
+    position: fixed;
     box-sizing: border-box;
     padding: 5px;
-    margin-bottom: 50px;
+    bottom: 0px;
 }
 
 h1.Header {
@@ -44,6 +45,7 @@ a {
 
 #container{
     margin: 0 auto;
+    margin-left: 20%;
 }
 
 nav {
