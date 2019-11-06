@@ -4,7 +4,7 @@
 div.Title{
     box-sizing: border-box;
     padding: 5px;
-    margin-bottom: 30px;
+    margin: 0 auto;
 }
 
 h1.Header {
@@ -43,7 +43,8 @@ a {
 }
 
 #container{
-    margin: 0 auto;
+    margin: unset;
+    overflow: visible;
 }
 
 nav {
