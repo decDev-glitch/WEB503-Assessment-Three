@@ -31,6 +31,7 @@ body{
     color: firebrick;
     word-wrap: break-word !important;
     font-family: "Open Sans", sans-serif;
+    width: auto;
 }
 
 h1{
@@ -46,6 +47,7 @@ a {
 #container{
     margin: unset;
     overflow: visible;
+    width: 100%;
 }
 
 nav {
