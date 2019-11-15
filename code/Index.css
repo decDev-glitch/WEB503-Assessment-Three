@@ -138,3 +138,17 @@ h2.Welcome{
     display: block;
     float: left;
 }
+.Workout {
+    box-sizing: border-box;
+    color: white;
+}
+.MostPopular {
+    color: white;
+    display: block;
+    float: left;
+}
+.zyzz {
+    display: block;
+    float: left;
+    margin-right: 25px;
+}
