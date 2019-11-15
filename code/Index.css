@@ -126,3 +126,15 @@ h2.Welcome{
     text-align: center;
     color: white;
 }
+.ImageGallery{
+    box-sizing: border-box;
+    margin: auto;
+}
+.back {
+    display: block;
+    float: left;
+}
+.zyzz {
+    display: block;
+    float: left;
+}
